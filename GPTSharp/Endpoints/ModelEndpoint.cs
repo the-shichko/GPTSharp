@@ -1,8 +1,8 @@
-﻿using OpenAI.API.Client;
-using OpenAI.API.Models;
-using OpenAI.API.Models.AiModels.Responses;
+﻿using GPTSharp.Client;
+using GPTSharp.Models;
+using GPTSharp.Models.AiModels.Responses;
 
-namespace OpenAI.API.Endpoints;
+namespace GPTSharp.Endpoints;
 
 /// <summary>
 /// Сервис для работы с ендпонтом Models | Service for work with controller Models

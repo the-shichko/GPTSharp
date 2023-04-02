@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI.API", "OpenAI.API\OpenAI.API.csproj", "{652E54E3-619B-41D1-9385-4123668D0EDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPTSharp", "GPTSharp\GPTSharp.csproj", "{652E54E3-619B-41D1-9385-4123668D0EDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{8AEC4E82-6C50-47CF-BA28-ED7605D5F2B7}"
 EndProject

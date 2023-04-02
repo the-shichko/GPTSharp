@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace OpenAI.API.Models;
+namespace GPTSharp.Models;
 
 [Serializable]
 public class ResponseResult<T>

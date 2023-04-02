@@ -1,4 +1,4 @@
-﻿namespace OpenAI.API.Models;
+﻿namespace GPTSharp.Models;
 
 public class ErrorResult
 {

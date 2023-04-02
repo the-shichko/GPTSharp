@@ -1,5 +1,5 @@
-﻿using OpenAI.API;
-using OpenAI.API.Models.Chat.Requests;
+﻿using GPTSharp;
+using GPTSharp.Models.Chat.Requests;
 
 namespace Tests;
 

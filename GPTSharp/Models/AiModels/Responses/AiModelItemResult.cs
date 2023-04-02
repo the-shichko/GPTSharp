@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace OpenAI.API.Models.AiModels.Responses;
+namespace GPTSharp.Models.AiModels.Responses;
 
 public class AiModelItemResult
 {

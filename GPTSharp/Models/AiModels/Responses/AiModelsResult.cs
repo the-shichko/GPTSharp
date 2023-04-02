@@ -1,4 +1,4 @@
-﻿namespace OpenAI.API.Models.AiModels.Responses;
+﻿namespace GPTSharp.Models.AiModels.Responses;
 
 public class AiModelsResult
 {

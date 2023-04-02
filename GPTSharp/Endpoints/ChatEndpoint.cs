@@ -1,9 +1,9 @@
-﻿using OpenAI.API.Client;
-using OpenAI.API.Models;
-using OpenAI.API.Models.Chat.Requests;
-using OpenAI.API.Models.Chat.Responses;
+﻿using GPTSharp.Client;
+using GPTSharp.Models;
+using GPTSharp.Models.Chat.Requests;
+using GPTSharp.Models.Chat.Responses;
 
-namespace OpenAI.API.Endpoints;
+namespace GPTSharp.Endpoints;
 
 /// <summary>
 /// Сервис для работы с ендпонтом Chat | Service for work with controller Chat

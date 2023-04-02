@@ -1,7 +1,7 @@
-﻿using Newtonsoft.Json;
-using OpenAI.API.Models.Chat.Requests;
+﻿using GPTSharp.Models.Chat.Requests;
+using Newtonsoft.Json;
 
-namespace OpenAI.API.Models.Chat.Responses;
+namespace GPTSharp.Models.Chat.Responses;
 
 [Serializable]
 public class CompletionsResult

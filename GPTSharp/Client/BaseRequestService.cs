@@ -1,10 +1,10 @@
 ﻿using System.Net.Http.Headers;
 using System.Text;
+using GPTSharp.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using OpenAI.API.Models;
 
-namespace OpenAI.API.Client;
+namespace GPTSharp.Client;
 
 public class BaseRequestService : IRequestService
 {

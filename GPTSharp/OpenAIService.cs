@@ -1,7 +1,7 @@
-﻿using OpenAI.API.Client;
-using OpenAI.API.Endpoints;
+﻿using GPTSharp.Client;
+using GPTSharp.Endpoints;
 
-namespace OpenAI.API;
+namespace GPTSharp;
 
 public class OpenAIService
 {

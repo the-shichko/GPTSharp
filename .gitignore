@@ -12,3 +12,7 @@ Tests/obj/
 OpenAI.API/bin/
 
 OpenAI.API/obj/
+
+GPTSharp/bin/
+
+GPTSharp/obj/

@@ -1,6 +1,6 @@
-﻿using OpenAI.API.Models;
+﻿using GPTSharp.Models;
 
-namespace OpenAI.API.Client;
+namespace GPTSharp.Client;
 
 public interface IRequestService
 {

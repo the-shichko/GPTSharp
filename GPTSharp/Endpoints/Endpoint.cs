@@ -1,6 +1,6 @@
-﻿using OpenAI.API.Client;
+﻿using GPTSharp.Client;
 
-namespace OpenAI.API.Endpoints;
+namespace GPTSharp.Endpoints;
 
 /// <summary>
 /// Базовый ендпоинт API | Base enpoint class API

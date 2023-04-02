@@ -23,7 +23,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\OpenAI.API\OpenAI.API.csproj" />
+      <ProjectReference Include="..\GPTSharp\GPTSharp.csproj" />
     </ItemGroup>
 
 </Project>

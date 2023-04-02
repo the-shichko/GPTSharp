@@ -1,4 +1,4 @@
-﻿using OpenAI.API;
+﻿using GPTSharp;
 
 namespace Tests;
 
