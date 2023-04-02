@@ -1,0 +1,14 @@
+
+.idea/
+
+*.user
+
+Tests/bin/
+
+Tests/obj/Debug/
+
+Tests/obj/
+
+OpenAI.API/bin/
+
+OpenAI.API/obj/
