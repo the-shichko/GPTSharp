@@ -6,12 +6,13 @@
         <Nullable>disable</Nullable>
         <Title>GPTSharp</Title>
         <Authors>the_shichko.exe</Authors>
-        <PackageProjectUrl>https://github.com/the-shichko/OpenAI.API</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/the-shichko/GPTSharp</PackageProjectUrl>
         <PackageIcon>logo.png</PackageIcon>
-        <RepositoryUrl>https://github.com/the-shichko/OpenAI.API</RepositoryUrl>
+        <RepositoryUrl>https://github.com/the-shichko/GPTSharp</RepositoryUrl>
         <PackageTags>ChatGPT, AI</PackageTags>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Description>C# .NET 7 wrapper library to use with OpenAI's GPT-3 API.</Description>
+        <Copyright>the_shichko.exe</Copyright>
     </PropertyGroup>
 
     <ItemGroup>

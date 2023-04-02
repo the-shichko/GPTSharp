@@ -12,6 +12,11 @@ public class CompletionsResult
     public string Model { get; set; }
     public UsageCompletions Usage { get; set; }
     public IEnumerable<ChoiceCompletions> Choices { get; set; }
+
+    /// <summary>
+    /// Получение ответа | Getting answer
+    /// </summary>
+    public string GetText() => Choices?.FirstOrDefault()?.Message?.Content;
 }
 
 public class UsageCompletions
