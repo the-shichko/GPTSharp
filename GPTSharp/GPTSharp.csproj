@@ -13,9 +13,9 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Description>C# .NET 7 wrapper library to use with OpenAI's GPT-3 API.</Description>
         <Copyright>the_shichko.exe</Copyright>
-        <Version>1.0.1</Version>
-        <AssemblyVersion>1.0.1</AssemblyVersion>
-        <FileVersion>1.0.1</FileVersion>
+        <Version>1.0.2</Version>
+        <AssemblyVersion>1.0.2</AssemblyVersion>
+        <FileVersion>1.0.2</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
