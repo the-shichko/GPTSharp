@@ -14,6 +14,11 @@ public class OpenAIService
     /// Сервис для работы с контроллером Models | Service for work with controller Models
     /// </summary>
     public readonly ModelEndpoint ModelsEndpoint;
+    
+    /// <summary>
+    /// Сервис для работы с контроллером Images | Service for work with controller Images
+    /// </summary>
+    public readonly ImagesEndpoint ImagesEndpoint;
 
     /// <summary>
     /// Создание сервиса для работы с openai API | Creating service for work with OpenAI API
@@ -24,5 +29,6 @@ public class OpenAIService
         var requestService = new BaseRequestService();
         ChatEndpoint = new ChatEndpoint(token, requestService);
         ModelsEndpoint = new ModelEndpoint(token, requestService);
+        ImagesEndpoint = new ImagesEndpoint(token, requestService);
     }
 }
